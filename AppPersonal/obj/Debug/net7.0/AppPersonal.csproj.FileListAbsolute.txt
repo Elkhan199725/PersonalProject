@@ -1,0 +1,15 @@
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\bin\Debug\net7.0\AppPersonal.exe
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\bin\Debug\net7.0\AppPersonal.deps.json
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\bin\Debug\net7.0\AppPersonal.runtimeconfig.json
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\bin\Debug\net7.0\AppPersonal.dll
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\bin\Debug\net7.0\AppPersonal.pdb
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.csproj.AssemblyReference.cache
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.AssemblyInfoInputs.cache
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.AssemblyInfo.cs
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.csproj.CoreCompileInputs.cache
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.dll
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\refint\AppPersonal.dll
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.pdb
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\AppPersonal.genruntimeconfig.cache
+C:\Users\elkhantma\source\repos\PersonalProject\AppPersonal\obj\Debug\net7.0\ref\AppPersonal.dll
